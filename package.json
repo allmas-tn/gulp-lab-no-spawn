@@ -1,0 +1,21 @@
+{
+  "name": "gulp-lab-no-spawn",
+  "version": "1.0.0",
+  "description": "A Gulp plugin for running lab tests programmatically in the same process as Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "lab"
+  ],
+  "author": "Allmas <info@allmas-tn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "lab": "^10.8.2",
+    "through2": "^2.0.1"
+  },
+  "repository": "git@github.com:allmas-tn/gulp-lab-no-spawn.git"
+}
